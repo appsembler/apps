@@ -1,0 +1,6 @@
+[submodule "djangotutorial_appsembler"]
+	path = djangotutorial_appsembler
+	url = git@github.com:appsembler/djangotutorial_appsembler.git
+[submodule "mediathread"]
+	path = mediathread
+	url = git@github.com:noderabbit-team/mediathread_deploy.git
