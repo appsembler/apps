@@ -4,3 +4,12 @@
 [submodule "mediathread"]
 	path = mediathread
 	url = git@github.com:noderabbit-team/mediathread_deploy.git
+[submodule "mezzanine"]
+	path = mezzanine
+	url = git@github.com:appsembler/mezzanine-stackato.git
+[submodule "mayan"]
+	path = mayan
+	url = git@github.com:appsembler/mayan_appsembler.git
+[submodule "kotti"]
+	path = kotti
+	url = git@github.com:appsembler/kotti_appsembler.git
